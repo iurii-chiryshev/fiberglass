@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Awicons-Vista-Artistic-Folder-my-pictures.ico</file>
+        <file>icons/qt.ico</file>
+        <file>icons/fit_to_window.png</file>
+        <file>icons/normal_size.png</file>
+        <file>icons/zoom_in.png</file>
+        <file>icons/zoom_out.png</file>
+        <file>icons/terminal.png</file>
+        <file>icons/done.png</file>
+        <file>icons/floppy.ico</file>
+        <file>icons/application_cascade.ico</file>
+        <file>icons/application_tile_horizontal.ico</file>
+    </qresource>
+</RCC>
